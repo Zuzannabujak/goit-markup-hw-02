@@ -1,12 +1,12 @@
 .general
 {
-    font-family:"Roboto" sans-serif;
+    font-family:"Roboto", sans-serif;
     color: #434455;
     background-color: #ffffff;
 }
 .logo 
 {
-    font-family: "Raleway" sans-serif;
+    font-family: "Raleway", sans-serif;
     color: #4D5AE5;
     font-size: 18px;
     line-height: 1.17;
@@ -16,7 +16,7 @@
 }
 .logostudio
 {
-    font-family: "Raleway" sans-serif;
+    font-family: "Raleway", sans-serif;
     color: #2E2F42;
     font-size: 18px;
     line-height: 1.17;
@@ -39,5 +39,39 @@
 }
 .address
 {
-
+font-size: 16px;
+letter-spacing: 0.02em;
+color: #434455;
+font-weight: 400;
+line-height: 1.5;
+}
+.address:hover
+{
+    color: #404BBF;
+}
+.firstsection
+{
+    background-color: #2E2F42;
+    text-align: center;
+}
+.mainheading
+{
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 1.1;
+    letter-spacing: 0.02em;
+    color: #FFFFFF;
+}
+.firstsection.button 
+{
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+}
+.firstsection.button:hover
+{
+    background-color: #404BBF;
 }
