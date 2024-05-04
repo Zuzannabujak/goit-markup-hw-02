@@ -58,11 +58,11 @@ line-height: 1.5;
 {
     font-size: 56px;
     font-weight: 700;
-    line-height: 1.1;
     letter-spacing: 0.02em;
     color: #FFFFFF;
+    line-height: 1.07;
 }
-.firstsection.button 
+.firstsectionbutton 
 {
     font-size: 16px;
     font-weight: 500;
@@ -71,10 +71,11 @@ line-height: 1.5;
     color: #FFFFFF;
     background-color: #4D5AE5;
     cursor: pointer;
+    background-color: #4D5AE5
 
 }
-.firstsection.button:hover, 
-.firstsection.button:focus
+.firstsectionbutton:hover, 
+.firstsectionbutton:focus
 {
     background-color: #404BBF;
 }
