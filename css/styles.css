@@ -41,7 +41,8 @@
 {
     font-style: normal;
 }
-.address:hover, .address:focus
+.addresslist:hover,
+.addresslist:focus
 {
     color: #404BBF;
 }
