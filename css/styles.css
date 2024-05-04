@@ -62,7 +62,7 @@ line-height: 1.5;
     color: #FFFFFF;
     line-height: 1.07;
 }
-.firstsectionbutton 
+.firstsection .button 
 {
     font-size: 16px;
     font-weight: 500;
@@ -71,11 +71,10 @@ line-height: 1.5;
     color: #FFFFFF;
     background-color: #4D5AE5;
     cursor: pointer;
-    background-color: #4D5AE5
-
+    font-family: "Roboto", sans-serif;
 }
-.firstsectionbutton:hover, 
-.firstsectionbutton:focus
+.firstsection .button:hover, 
+.firstsection .button:focus
 {
     background-color: #404BBF;
 }
